@@ -1,0 +1,239 @@
+1
+Abra State Institute of Science and Technology
+State Univ. & Colleges
+2
+Apayao State College
+State Univ. & Colleges
+3
+Benguet State University
+State Univ. & Colleges
+4
+Ifugao State University
+State Univ. & Colleges
+5
+Kalinga State University
+State Univ. & Colleges
+6
+Mountain Province State University
+State Univ. & Colleges
+7
+Ilocos Sur Polytechnic State College
+State Univ. & Colleges
+8
+Don Mariano Marcos Memorial State University
+State Univ. & Colleges
+9
+Mariano Marcos State University
+State Univ. & Colleges
+10
+North Luzon Philippine State College
+State Univ. & Colleges
+13
+Batanes State College
+State Univ. & Colleges
+14
+Cagayan State University
+State Univ. & Colleges
+15
+Isabela State University
+State Univ. & Colleges
+17
+Quirino State University
+State Univ. & Colleges
+19
+Bataan Peninsula State University
+State Univ. & Colleges
+20
+Bulacan Agricultural State College
+State Univ. & Colleges
+21
+Bulacan State University
+State Univ. & Colleges
+22
+Central Luzon State University
+State Univ. & Colleges
+24
+Nueva Ecija University of Science and Technology
+State Univ. & Colleges
+25
+Pampanga State Agricultural University
+State Univ. & Colleges
+26
+Philippine Merchants Marine Academy
+State Univ. & Colleges
+27
+Ramon Magsaysay Technical University
+State Univ. & Colleges
+28
+Tarlac College of Agriculture
+State Univ. & Colleges
+29
+Tarlac State University
+State Univ. & Colleges
+31
+Southern Luzon State University
+State Univ. & Colleges
+32
+Batangas State University
+State Univ. & Colleges
+34
+Cavite State University
+State Univ. & Colleges
+37
+Occidental Mindoro State College
+State Univ. & Colleges
+39
+Romblon State University
+State Univ. & Colleges
+40
+Western Philippines University
+State Univ. & Colleges
+41
+Bicol University
+State Univ. & Colleges
+43
+Camarines Norte State College
+State Univ. & Colleges
+44
+Camarines Sur Polytechnic College
+State Univ. & Colleges
+45
+Catanduanes State College (University)
+State Univ. & Colleges
+47
+Dr. Emilio B. Espinosa, Sr. Memo. State College of Agri and Technology
+State Univ. & Colleges
+48
+Partido State University
+State Univ. & Colleges
+50
+Aklan State University
+State Univ. & Colleges
+51
+Capiz State University
+State Univ. & Colleges
+52
+Carlos Hilado Mem. State College
+State Univ. & Colleges
+53
+Guimaras State College
+State Univ. & Colleges
+54
+Iloilo Science and Technology University
+State Univ. & Colleges
+56
+Northern Iloilo State University
+State Univ. & Colleges
+59
+West Visayas State University
+State Univ. & Colleges
+61
+Bohol Islands State University
+State Univ. & Colleges
+62
+Cebu Normal University
+State Univ. & Colleges
+63
+Cebu Technological University
+State Univ. & Colleges
+65
+Siquijor State College
+State Univ. & Colleges
+66
+Eastern Samar State University
+State Univ. & Colleges
+67
+Eastern Visayas State University
+State Univ. & Colleges
+68
+Leyte Normal University
+State Univ. & Colleges
+70
+Northwest Samar State University
+State Univ. & Colleges
+71
+Palompon Polytechnic State University
+State Univ. & Colleges
+72
+Samar State University
+State Univ. & Colleges
+73
+Southern Leyte State University
+State Univ. & Colleges
+74
+University of Eastern Philippines
+State Univ. & Colleges
+75
+Visayas State University
+State Univ. & Colleges
+77
+Jose Rizal Memorial State University
+State Univ. & Colleges
+78
+Western Mindanao State University
+State Univ. & Colleges
+79
+Zamboanga City State Polytechnic College
+State Univ. & Colleges
+80
+Zamboanga State College of Marine Sciences and Technology
+State Univ. & Colleges
+82
+Bukidnon State University
+State Univ. & Colleges
+84
+Central Mindanao University
+State Univ. & Colleges
+87
+Davao del Norte State College
+State Univ. & Colleges
+88
+Davao Oriental State College of Science and Technology
+State Univ. & Colleges
+89
+Southern Philippines Agri-Business and Marine and Aquatic School of Technology
+State Univ. & Colleges
+90
+University of Southeastern Philippines
+State Univ. & Colleges
+91
+Compostela Valley State College
+State Univ. & Colleges
+94
+Sultan Kudarat State University
+State Univ. & Colleges
+96
+Agusan Del Sur State College of Agriculture and Technology
+State Univ. & Colleges
+97
+Caraga State University
+State Univ. & Colleges
+98
+Surigao Del Sur State University
+State Univ. & Colleges
+99
+Surigao State College of Technology
+State Univ. & Colleges
+100
+Basilan State College
+State Univ. & Colleges
+107
+Philippine Normal University
+State Univ. & Colleges
+109
+Polytechnic University of the Philippines
+State Univ. & Colleges
+112
+University of the Philippines System (UP)
+State Univ. & Colleges
+113
+University of Science and Technology of Southern Philipines 
+State Univ. & Colleges
+114
+Pamantasan ng Lungsod ng Maynila
+State Univ. & Colleges
+115
+Leon Ganzon Polytechnic College
+State Univ. & Colleges
+116
+University of the Philippines Los Banos 
