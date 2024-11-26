@@ -44,7 +44,7 @@ for row in cur :
         if count > 1 : fhand.write(",\n")
         # Adds a comma and newline before appending new data to separate the entries.
         output = "["+str(lat)+","+str(lng)+", '"+where+"']"
-        fhand.write(output) # Writes the formatted data to the file.
+        fhand.write(output) # Writes the formatted data to the file or in the where.js
     except:
         continue
 
